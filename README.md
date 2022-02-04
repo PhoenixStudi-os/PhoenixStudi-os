@@ -1,6 +1,5 @@
-- 👋 Hi, we're @PhoenixStudi-os
-- 👀 we're interested in making simple, and fun games
-- 📫 Check out our itch.io: https://phoenix-studios-official.itch.io/
+- 👋 Hi, we're @HollowNexusStudios
+- 👀 we're interested in making open source discord bots
 
 <!---
 PhoenixStudi-os/PhoenixStudi-os is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
